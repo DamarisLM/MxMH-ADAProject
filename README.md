@@ -17,6 +17,8 @@ Analyze whether individuals who report feelings of anxiety or depression use mus
 ### Using R
 I used R to clean my data and create graphs: [R Markdown](https://rpubs.com/DMLisseth/1218847)
 
+### Json File
+[MxMH json](https://damarislm.github.io/MxMH-ADAProject/MxMH_JSON.json)
 
 
 
